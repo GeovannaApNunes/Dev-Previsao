@@ -16,6 +16,6 @@ Dev Previsão é uma aplicação simples de previsão do tempo que permite aos u
 - *JavaScript*: Interatividade e consumo de APIs.
 - *OpenWeatherMap API*: Para obtenção dos dados meteorológicos em tempo real.
 
+![image](https://github.com/user-attachments/assets/0518e0dc-0703-45c2-b1fe-8f21ad41803e)
+![image](https://github.com/user-attachments/assets/3ecda790-add5-461f-ac83-e6af48ccdc4a)
 
-![image](https://github.com/user-attachments/assets/4507a785-4002-4cdb-9030-316c5dedb930)
-![image](https://github.com/user-attachments/assets/621100ab-5437-4703-b9ab-49036a950d52)
